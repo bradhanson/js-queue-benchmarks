@@ -1,0 +1,15 @@
+{
+  "name": "js-queue-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "queue.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Bradley Hanson",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
